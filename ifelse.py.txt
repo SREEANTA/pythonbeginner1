@@ -1,0 +1,5 @@
+age=45
+if (age<20):
+	print ("not eligible for voting")
+else:
+    print("eligible for voting")
